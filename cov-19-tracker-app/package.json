@@ -6,7 +6,7 @@
     "@amcharts/amcharts4": "^4.9.23",
     "@amcharts/amcharts4-geodata": "^4.1.15",
     "@fortawesome/fontawesome-free": "^5.13.0",
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "2.0.0"
